@@ -94,8 +94,10 @@
 		ABF4E75D2A5ECAFB005D9631 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				ABF4E7882A5ECB6C005D9631 /* Folder1 */,
+				ABF4E7892A5ECB76005D9631 /* Folder2 */,
+				ABF4E78A2A5ECB7D005D9631 /* Folder3 */,
 				ABF4E75E2A5ECAFB005D9631 /* TestApp.swift */,
-				ABF4E7602A5ECAFB005D9631 /* ContentView.swift */,
 				ABF4E7622A5ECAFC005D9631 /* Assets.xcassets */,
 				ABF4E7642A5ECAFC005D9631 /* Preview Content */,
 			);
@@ -125,6 +127,28 @@
 				ABF4E77B2A5ECAFC005D9631 /* TestUITestsLaunchTests.swift */,
 			);
 			path = TestUITests;
+			sourceTree = "<group>";
+		};
+		ABF4E7882A5ECB6C005D9631 /* Folder1 */ = {
+			isa = PBXGroup;
+			children = (
+				ABF4E7602A5ECAFB005D9631 /* ContentView.swift */,
+			);
+			path = Folder1;
+			sourceTree = "<group>";
+		};
+		ABF4E7892A5ECB76005D9631 /* Folder2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Folder2;
+			sourceTree = "<group>";
+		};
+		ABF4E78A2A5ECB7D005D9631 /* Folder3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Folder3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
